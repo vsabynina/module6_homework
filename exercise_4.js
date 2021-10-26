@@ -9,4 +9,4 @@ function getNumbers (a, b) {
     }
   }, 1000);
 }
-getNumbers(a, b);
+getNumbers(5, 15);
